@@ -1,0 +1,5 @@
+Neel 55 85 90 95 
+Aarav 1 65 70 68 
+Riya 2 50 45 55 
+Kavya 3 75 78 80 
+Ishaan 4 40 35 30
